@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding:0;
+}
+div{
+	width:30%;
+	margin:20px;
+}
+img{
+	width:100%;
+	border-radius:20px;
+	box-shadow:15px 20px skyblue;
+}
+ul{
+		
+	padding-bottom:20px;
+	opacity:0.5;
+	padding-left:30px;
+}
+h1{
+	padding-bottom:20px;
+}
